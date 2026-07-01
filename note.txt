@@ -1,0 +1,19 @@
+this files might help: 
+    - https://www.behance.net/gallery/223050639/Portfolio?tracking_source=search_projects|web+design+portfolio&l=19
+    - https://www.portfoliobox.com/
+
+lovable: 
+    - https://lovable.dev/projects/0776d7a7-8132-49d9-a389-d1b77e190f57
+
+
+To Do: 
+    - create the layout without dynamication 
+    - add the backend 
+    - add sound 
+    - add animation 
+
+  for later 
+    - then implement the project management app
+    - implement tasks with later tasks 
+    - implement pomofocus 
+    - handle the setting for the themes 
